@@ -1,0 +1,21 @@
+{
+  "name": "tawny-owl-theme",
+  "displayName": "tawny-owl-theme",
+  "description": "VSCode theme: Warm browns with a touch of Blue, with creative script",
+  "version": "250318",
+  "engines": {
+    "vscode": "^1.98.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "tawny-owl-theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/tawny-owl-theme-color-theme.json"
+      }
+    ]
+  }
+}
